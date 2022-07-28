@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @WinterWind0
 - 👀 I’m interested in computer science, cybersecurity, and medicine
-- 📫 How to reach me: Discord
+- 📫 How to reach me:
+  Discord: だいち#0002
 
 <!---
 WinterWind0/WinterWind0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
