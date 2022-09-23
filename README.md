@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @WinterWind0
-- 👀 I’m interested in computer science, cybersecurity, and medicine
+- 👀 I’m interested in computer science and cyber security
+- I'm currently working on projects in Minecraft 
 - 📫 How to reach me:
   Discord: だいち#0002
 
