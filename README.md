@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WinterWind0
-- 👀 I’m interested in computer science and cyber security
+- 👀 I’m interested in AI and cyber security!
 - 📫 How to reach me:
-  Discord: だいち#0002
+  Discord: daichi0
 
 <!---
 WinterWind0/WinterWind0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
